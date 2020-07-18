@@ -4,4 +4,4 @@ Things To DO:
 Automatic Garment point Detection
 Automatic 3D rendering of a given garment using GAN
 Pose Estimaation
-fitting og garment on model using Gans
+fitting of garment on model using Gans
